@@ -2407,6 +2407,7 @@ endmenu
 
 menu "Text editors and viewers"
 	source "package/ed/Config.in"
+	source "package/emacs/Config.in"
 	source "package/joe/Config.in"
 	source "package/less/Config.in"
 	source "package/mc/Config.in"
